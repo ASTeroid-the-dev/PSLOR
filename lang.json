@@ -1,6 +1,6 @@
 {
-  "ver": "v6.3h",
-  "author": "STR",
+  "ver": "v0.0.1 (Full Demo)",
+  "author": "ASTeroid",
   "zh-CN":{
     "langZh": "中文",
     "langEn": "英文",
@@ -44,15 +44,15 @@
   "langZh": "Chinese",
   "langEn": "English",
   "resph": "Translation Results",
-  "title": "Pseudo-Localization Translator Demo",
-  "pageTitle": "Pseudo-Localization Translator Demo",
+  "title": "Pseudo-Localization Translator Demo Remastered",
+  "pageTitle": "Pseudo-Localization Translator Demo (Version 0.0.1)",
   "bkhome": "none",
   "what": "What is pseudo-localization?",
   "uplog": "Update log",
-  "pjhome": "Github",
-  "exever": "EXE Version",
-  "pstype": "Type Here",
-  "psbtn": "Pseudo-Localize!",
+  "pjhome": "GitHub repo",
+  "exever": "EXE Version (Original)",
+  "pstype": "Hello World!",
+  "psbtn": "Pseudolocalize!",
   "hisbtn": "History",
   "chrbtn": "Character library",
   "opttxt": "Options: ",
@@ -75,7 +75,7 @@
   "nctxt": "Replace digits 1-9 with circled digits ①-⑨",
   "esctxt": "Preserve escape characters (such as \\n)",
   "clear": "Clear",
-  "whattxt": "Pseudolocalization (or qps-ploc, qps-plocm, qps-ploca, en-XA, en-XB) is a way to simulate the localization process. By doing so, the localization team will be able to effectively investigate issues that might occur during localization process (incorrect display of characters due to string length, etc.)<br>During pseudo-localization, English letters are replaced with accents and characters from other scripts. (For example, the letter a is replaced by any one of αäáàāāǎǎăăåå selected at random. ), separators etc. are also added to increase the string length.<br>For Example：“Windows Photo Gallery” → “ [1iaT9][ Ẅĭпðøωś Þнôтŏ Ģάŀļєяÿ !!! !] ”<br>More information: <a href='https://docs.microsoft.com/en-us/globalization/methodology/pseudolocalization' target='_blank'>https://docs.microsoft.com/en-us/globalization/methodology/pseudolocalization</a><br><br>More features are on the way. Thanks for your support!",
-  "logtxt": ""
+  "whattxt": "Coming soon!",
+  "logtxt": "<h4>0.0.1</h4> Initial release."
 }
 }

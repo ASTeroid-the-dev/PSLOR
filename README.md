@@ -1,12 +1,26 @@
-A Pseudo-localization Translater Demo
+> [!CAUTION]
+> This fork is known to be unstable, and can cause bugs.
 
-一个伪本地化演示
+> [!IMPORTANT]  
+> A Patreon-backer exclusive version of the demo (0.0.2) will be available soon!
 
-伪本地化（pseudo-localization，语言环境名称为 qps-ploc, qps-plocm, qps-ploca, en-XA, en-XB），是模拟本地化过程的一种方式。而通过模拟本地化过程，能够有效地调查在本地化中出现的问题（如字符无法正常显示，或因字符串过长而导致语段显示不完整等）。
+# A Pseudolocalization Translator Demo, but it's a remaster!
 
-在伪本地化过程中，英文字母会被替换为来自其他语言的重音符号和字符。（例如，字母 a 可以被 αäáàāāǎǎăăåå 中的任何一个替换。），还会添加分隔符等以增加字符串长度。
-举例：“Windows 照片库（Windows Photo Gallery）”→“ [1iaT9][ Ẅĭпðøωś Þнôтŏ Ģάŀļєяÿ !!! !] ”
+**PSLOR, also known as Pseudolocalization Translator Demo Remastered, is the ultimate version of suntrise's pseudolocalizer, which introduces several new features. You can check the changelog to see the new features. Currently, it is under development, however, even more features will be added soon!**
+## Credits
 
-该网页演示了伪本地化的一部分，即用不同的字符替换英文字母和添加分隔符。
-
-更多功能将在之后更新，感谢大家的支持！
+**suntrise**: Original version creator
+<br/>
+**ASTeroid (Me)**: Main Developer
+<br/>
+**OpenJS Foundation and jQuery contributors**: jQuery
+<br/>
+**Hans Fjällemark, John Papa & Tim Ferrell**: toastr
+<br/>
+**Micah McGonigal/mystman12/Basically Games LLC**: BBCR "Remastered" text reference
+<br/>
+**Google Inc./Google LLC**: Material Design Lite (suntrise uses this style for rewriting the tool in December 2023)
+<br/>
+**Ana Travas**: [Animista](https://animista.net)
+<br/>
+**faq0**: Former Developer (he changed the old settings.js file)

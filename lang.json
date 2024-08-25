@@ -1,5 +1,5 @@
 {
-  "ver": "v0.0.1 (Full Demo)",
+  "ver": "v0.0.2 (Patreon-backer exclusive build)",
   "author": "ASTeroid",
   "zh-CN":{
     "langZh": "中文",
@@ -78,7 +78,7 @@
   "esctxt": "Preserve escape characters (such as \\n)",
   "clear": "Clear",
   "whattxt": "Coming soon!",
-  "logtxt": "<h4>0.0.1</h4> Initial release.",
+  "logtxt": "<h4>0.0.2</h4> Even more features, and available exclusively for patrons. <h4>0.0.1</h4> Initial release.",
   "creditstxt": "test",
   "credits": "Credits"
 }

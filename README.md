@@ -24,3 +24,5 @@
 **Ana Travas**: [Animista](https://animista.net)
 <br/>
 **faq0**: Former original version developer (he changed the old settings.js file)
+<br/>
+**Guillaume/mebibou**: Material Design Lite selectfield component

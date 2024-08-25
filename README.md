@@ -2,7 +2,7 @@
 > This fork is known to be unstable, and can cause bugs.
 
 > [!IMPORTANT]  
-> A Patreon-backer exclusive version of the demo (0.0.2) will be available soon!
+> Development of v0.0.2 has officially started! New people/companies will added to the credits, and more status updates will also be posted on Patreon.
 
 # A Pseudolocalization Translator Demo, but it's a remaster!
 
@@ -23,4 +23,4 @@
 <br/>
 **Ana Travas**: [Animista](https://animista.net)
 <br/>
-**faq0**: Former Developer (he changed the old settings.js file)
+**faq0**: Former original version developer (he changed the old settings.js file)

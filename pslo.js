@@ -9,6 +9,7 @@ fetch('character.json')
 
 //主函数
 function pseudoLocalize() {
+  toastr.info('Your text has been translated.');
   let origin = pstype.value;
   let result = "";
   let oriLength = origin.length

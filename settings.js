@@ -1,4 +1,3 @@
-//获取字符库
 fetch('character.json')    
 .then(response => response.json())
 .then(jsonData => {charLib = jsonData;
@@ -10,7 +9,6 @@ fetch('character.json')
   }
 })
 
-//默认语言设置
 fetch('lang.json')    
   .then(response => response.json())
   .then(jsonData => {

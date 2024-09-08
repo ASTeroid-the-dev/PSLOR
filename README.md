@@ -1,8 +1,5 @@
-> [!CAUTION]
-> This fork is known to be unstable, and can cause bugs.
-
 > [!IMPORTANT]  
-> Development of v0.0.2 has officially started! New people/companies will added to the credits, and more status updates will also be posted on Patreon.
+> Unfortunately, PSLOR has been **_cancelled_**, and has been **_archived_**. The reason why is because it was lacking some activity for almost a month. As a result, PSLOR will **_no longer_** be receiving any updates.
 
 # A Pseudolocalization Translator Demo, but it's a remaster!
 
